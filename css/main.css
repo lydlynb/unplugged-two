@@ -346,6 +346,11 @@ input[type=button] {
   margin: 0;
 }
 
+.features i {
+	font-size: 3.75em;
+  margin-bottom: 40px;
+}
+
 /* Reviews */
 
 .reviews {
@@ -692,6 +697,10 @@ input[type=button] {
         width: 40%;
     }
 
+    .map figure {
+        padding-bottom: 45.5%;
+    }
+
     .contact-section .content-wrapper h2 {
         width: 80%;
     }
@@ -788,6 +797,10 @@ input[type=button] {
     .contact-section .content-wrapper h2 {
         width: 100%;
         font-size: 3em;
+    }
+
+    .map figure {
+      padding-bottom: 37.5%;
     }
 
     .contact-section .content-wrapper h2 {
