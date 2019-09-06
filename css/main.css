@@ -645,6 +645,16 @@ input[type=button] {
     margin: 0;
   }
 
+  input[type=text] {
+    padding: 10px 0 10px 15px;
+  }
+
+  input[type=button] {
+    width: 100%;
+    padding: 10px 0;
+    margin-top: 20px;
+  }
+
   /* Features */
 
   .features h2 {
@@ -783,6 +793,7 @@ input[type=button] {
    }
 
    .faq h4,
+   .faq h5,
    .faq p {
        font-size: .875em;
        line-height: 1.125;
@@ -889,6 +900,7 @@ input[type=button] {
     }
 
     .faq h4,
+    .faq h5,
     .faq p {
         font-size: 1.125em;
         line-height: 1;
